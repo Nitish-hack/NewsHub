@@ -1,71 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
     {
     "source": {
     "id": null,
     "name": "CBS Sports"
     },
-    "author": "",
-    "title": "NFL Week 6 picks: Cowboys shock undefeated Eagles, Ravens beat Giants, Bills top Chiefs in wild shootout - CBS Sports",
-    "description": "Wondering which NFL teams are going to win in Week 6? You've come to the right place to find out",
-    "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-cowboys-shock-undefeated-eagles-ravens-beat-giants-bills-top-chiefs-in-wild-shootout/",
-    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/11/8b2bf0b8-7fde-40f5-9e81-b55f0eaa9d59/thumbnail/1200x675/216f088e5cec824ab03bba21e453810a/parsons.jpg",
-    "publishedAt": "2022-10-12T05:54:00Z",
-    "content": "So I'm supposed to be giving you some picks for Week 6 right now, but I have some bad news: There actually might not be a Week 6 because I've written a letter to the NFL asking that all games be post… [+15238 chars]"
-    },
-    {
-    "source": {
-    "id": "axios",
-    "name": "Axios"
-    },
-    "author": "Jacob Knutson",
-    "title": "White House: Biden will "continue to re-evaluate" U.S.-Saudi Arabia relations after OPEC oil cut - Axios",
-    "description": "OPEC+ decided to cut oil production by 2 million barrels per day starting next month.",
-    "url": "https://www.axios.com/2022/10/11/biden-us-saudi-arabia-relations-opec-cut",
-    "urlToImage": "https://images.axios.com/KDyR_DCTaZznKxQy2MK69MIPJ0Q=/0x103:2725x1636/1366x768/2022/10/12/1665552768534.jpg",
-    "publishedAt": "2022-10-12T05:48:45Z",
-    "content": "President Biden will "continue to re-evaluate" the U.S.' relationship with Saudi Arabia after a group of international oil exporters and Russia decided to significantly cut oil production in response… [+2338 chars]"
-    },
-    {
-    "source": {
-    "id": "associated-press",
-    "name": "Associated Press"
-    },
-    "author": "Adam Schreck",
-    "title": "UN, G7 decry Russian attack on Ukraine as possible war crime - The Associated Press",
-    "description": "KYIV, Ukraine (AP) — Russian forces showered Ukraine with more missiles and munition-carrying drones Tuesday after widespread strikes killed at least 19 people in an attack the U.N.",
-    "url": "https://apnews.com/76dba1ecb9c1d3ff04ec4609740c2283",
-    "urlToImage": "https://storage.googleapis.com/afs-prod/media/b6282b111b584136ba520ed01b522b5a/3000.jpeg",
-    "publishedAt": "2022-10-12T03:35:55Z",
-    "content": "KYIV, Ukraine (AP) Russian forces showered Ukraine with more missiles and munition-carrying drones Tuesday after widespread strikes killed at least 19 people in an attack the U.N. human rights office… [+8414 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Pinstripe Alley"
-    },
-    "author": "Peter Brody",
-    "title": "MLB Playoffs: Yankees win ALDS Game 1 behind ace outing from Gerrit Cole - Pinstripe Alley",
-    "description": "Gerrit Cole was nails on the mound, and both Harrison Bader and Anthony Rizzo went boom in the ALDS opener.",
-    "url": "https://www.pinstripealley.com/2022/10/11/23399572/yankees-game-score-recap-mlb-playoffs-alds-guardians-gerrit-cole-harrison-bader-anthony-rizzo-homers",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Szu_LEwXiFkC8Ip6ABeWqlbE0IU=/0x0:3996x2092/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24101875/usa_today_19216578.jpg",
-    "publishedAt": "2022-10-12T02:53:10Z",
-    "content": "Behind an ace performance from Gerrit Cole and home runs from Harrison Bader and Anthony Rizzo, the Yankees took Game 1 of the ALDS, 4-1. There were nervous moments in the third, but Cole made the ne… [+4828 chars]"
+    "author": "R.J. Anderson",
+    "title": "Phillies vs. Braves score: Bryce Harper, Aaron Nola push defending champs to brink with NLDS Game 3 win - CBS Sports",
+    "description": "Philadelphia won its first home playoff game in 11 years on Friday evening",
+    "url": "https://www.cbssports.com/mlb/news/phillies-vs-braves-score-bryce-harper-aaron-nola-push-defending-champs-to-brink-with-nlds-game-3-win/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/14/428fdbe1-e1d4-4844-ac2c-9cbcadd5a695/thumbnail/1200x675/76a4f8453c62d6eae2f1682bc20ada0a/harper-getty-5.png",
+    "publishedAt": "2022-10-15T05:21:00Z",
+    "content": "The Philadelphia Phillies defeated the Atlanta Braves 9-1 on Friday in Game 3 of their National League Division Series. The Phillies now lead the best-of-five set, 2-1, heading into Saturday's Game 4… [+4472 chars]"
     },
     {
     "source": {
     "id": "cnn",
     "name": "CNN"
     },
-    "author": "Eric Levenson, Josh Campbell, Andy Rose",
-    "title": "Former San Antonio officer who shot 17-year-old at McDonald's parking lot turns himself in on aggravated assault charges - CNN",
-    "description": "The former San Antonio police officer who shot an unarmed 17-year-old eating in his car at a McDonald's parking lot last week is facing two counts of aggravated assault by a public servant, the police department announced Tuesday.",
-    "url": "https://www.cnn.com/2022/10/11/us/san-antonio-police-shooting/index.html",
-    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221007133615-san-antonio-cop-fired-teen-shooting-mcdonalds.jpg?c=16x9&q=w_800,c_fill",
-    "publishedAt": "2022-10-12T02:22:00Z",
-    "content": "The former San Antonio police officer who shot an unarmed 17-year-old eating in his car at a McDonalds parking lot last week is facing two counts of aggravated assault by a public servant, the police… [+5371 chars]"
+    "author": "Stefano Pozzebon",
+    "title": "Venezuelan migrants in shock and limbo after new US immigration plan - CNN",
+    "description": ""The news hit me like a bucket of cold water," says Alejaidys Morey, a 30-year-old Venezuelan woman, who until this week was planning to start traveling towards the United States.",
+    "url": "https://www.cnn.com/2022/10/15/americas/venezuelan-migrants-title-42-expansion-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221014145725-01-venezuelan-migrants-title-42-expansion-intl.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-15T04:02:00Z",
+    "content": "The news hit me like a bucket of cold water, says Alejaidys Morey, a 30-year-old Venezuelan woman, who until this week was planning to start traveling towards the United States. On Wednesday, the US… [+6514 chars]"
     },
     {
     "source": {
@@ -73,64 +34,51 @@
     "name": "BBC News"
     },
     "author": "https://www.facebook.com/bbcnews",
-    "title": "Ukraine war: Zelensky calls for more sanctions after 'new wave of terror' - BBC",
-    "description": "Ukraine's president calls for even tougher sanctions against Russia after heavy missile strikes.",
-    "url": "https://www.bbc.com/news/world-europe-63223846",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3F43/production/_127059161_28e23852e9c034705928de2e375daab4fd096396.jpg",
-    "publishedAt": "2022-10-12T02:19:36Z",
-    "content": "Volodymyr Zelensky has urged countries to hit Russia with more sanctions in response to "a new wave of terror" after Monday's attacks on Ukraine. At least 19 people were killed and scores more injur… [+4858 chars]"
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": null,
-    "title": "Mariners’ vaunted bullpen, and psyche, damaged by Astros in Game 1 ALDS comeback - The Seattle Times",
-    "description": null,
-    "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc3BvcnRzL21hcmluZXJzL21hcmluZXJzLXZhdW50ZWQtYnVsbHBlbi1hbmQtcHN5Y2hlLWRhbWFnZWQtYnktYXN0cm9zLWluLWdhbWUtMS1hbGRzLWNvbWViYWNrL9IBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2022-10-12T01:48:28Z",
-    "content": null
+    "title": "Turkish mine explosion kills 28 and leaves dozens trapped - BBC",
+    "description": "Emergency workers are desperately searching for those still trapped hundreds of metres below ground.",
+    "url": "https://www.bbc.com/news/world-europe-63261746",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151AE/production/_127164468_mediaitem127164467.jpg",
+    "publishedAt": "2022-10-15T03:50:30Z",
+    "content": "At least 28 people have died and dozens remain trapped underground after an explosion in a coal mine in northern Turkey's Bartin province. Around 110 people were in the mine at the time of the blast… [+1765 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "YouTube"
+    "name": "The Guardian"
     },
-    "author": null,
-    "title": "Demonstrators call for Los Angeles City Council members to resign amid leaked audio of racist remark - KTLA 5",
-    "description": "The Los Angeles City Council met Tuesday as calls grew louder for three members to resign following leaked audio from a meeting last year that revealed racis...",
-    "url": "https://www.youtube.com/watch?v=QkvIwS7UoRQ",
-    "urlToImage": "https://i.ytimg.com/vi/QkvIwS7UoRQ/maxresdefault.jpg",
-    "publishedAt": "2022-10-12T01:47:52Z",
-    "content": null
+    "author": "Guardian staff reporter",
+    "title": "Herschel Walker denies abortion ban support and brandishes ‘police badge’ in Georgia debate - The Guardian US",
+    "description": "Republican spars with Democratic senator Raphael Warnock in one-off contest in vital midterms race",
+    "url": "https://www.theguardian.com/us-news/2022/oct/15/us-midterm-elections-herschel-walker-abortion-ban-police-badge-georgia-senate-debate-warnock",
+    "urlToImage": "https://i.guim.co.uk/img/media/8ce00ce336026b651af127a187a177c42909be70/0_44_3997_2399/master/3997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3be8193e82c4e24ae24da36c78d3c81",
+    "publishedAt": "2022-10-15T03:27:00Z",
+    "content": "The Republican Senate candidate Herschel Walker, a staunch anti-abortion politician accused by a former girlfriend of encouraging and paying for her abortion in 2009, used his only debate against the… [+5551 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "YouTube"
+    "name": "BBC News"
     },
-    "author": null,
-    "title": "Meta CEO Mark Zuckerberg unveils $1500 mixed reality headset, the Meta Quest Pro - CNBC Television",
-    "description": "CNBC's Steve Kovach joins "The News with Shepard Smith" to discuss the new mixed reality headset from Meta, called the $1,500 Meta Quest Pro.",
-    "url": "https://www.youtube.com/watch?v=sjw9ImSqJAo",
-    "urlToImage": "https://i.ytimg.com/vi/sjw9ImSqJAo/maxresdefault.jpg",
-    "publishedAt": "2022-10-12T01:19:19Z",
-    "content": null
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "North Carolina: Suspect,15, in custody after Raleigh shooting spree - BBC",
+    "description": "After shooting a relative at home, the boy went out into the street and started shooting neighbours.",
+    "url": "https://www.bbc.com/news/world-us-canada-63253516",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F0FE/production/_127149616_87f337e904919a828ad35c473104abc5083f56a4.jpg",
+    "publishedAt": "2022-10-15T03:08:54Z",
+    "content": "A boy suspected of a mass shooting in North Carolina on Thursday began the rampage by fatally shooting a relative at home, police have said. Five people including an off-duty police officer were kil… [+2524 chars]"
     },
     {
     "source": {
-    "id": "google-news",
-    "name": "Google News"
+    "id": "cnn",
+    "name": "CNN"
     },
-    "author": null,
-    "title": "Fat Bear Week 2022: 747 named champion in win over 901 - USA TODAY",
-    "description": null,
-    "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIyLzEwLzExL2ZhdC1iZWFyLXdlZWstMjAyMi03NDctY2hhbXBpb24vMTA0NjU4NjEwMDIv0gEA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2022-10-12T01:09:43Z",
-    "content": null
+    "author": "Betsy Klein",
+    "title": "Student loan forgiveness applications now open through beta mode website, Biden administration says - CNN",
+    "description": "The Biden administration has opened the application process for Americans seeking student debt relief in a beta period starting Friday evening, officials told CNN, allowing applicants to begin signing up before the website is formally unveiled later this mont…",
+    "url": "https://www.cnn.com/2022/10/14/politics/student-loan-forgiveness-beta-site/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220824142046-biden-student-loan-announcement-0824.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-15T02:59:00Z",
+    "content": "The Biden administration has opened the application process for Americans seeking student debt relief in a beta period starting Friday evening, officials told CNN, allowing applicants to begin signin… [+4291 chars]"
     },
     {
     "source": {
@@ -138,25 +86,12 @@
     "name": "Politico"
     },
     "author": null,
-    "title": "White House unveils application form for Biden's student debt relief - POLITICO",
-    "description": "Borrowers will self-certify that they meet the income threshold for the program.",
-    "url": "https://www.politico.com/news/2022/10/11/student-debt-relief-application-unveiled-00061197",
-    "urlToImage": "https://static.politico.com/c5/4f/9c3abd7f438e9072784209e1b84f/ap22237682575407.jpg",
-    "publishedAt": "2022-10-12T01:01:07Z",
-    "content": "The simple form will be hosted on a .gov website when it goes live later this month, officials said. It will also be available in a mobile format and a Spanish version. The application contains only… [+4025 chars]"
-    },
-    {
-    "source": {
-    "id": "cnn",
-    "name": "CNN"
-    },
-    "author": "Dan Heching",
-    "title": "Blake Shelton announces exit from 'The Voice' as new coaches join - CNN",
-    "description": "The singing competition show will say goodbye to one ot its longest-tenured coaches in Season 23 and welcome Chance the Rapper and Niall Horan as first-time coaches.",
-    "url": "https://www.cnn.com/2022/10/11/entertainment/blake-shelton-the-voice-chance-the-rapper-niall-horan/index.html",
-    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011195202-blake-shelton-the-voice-restricted.jpg?c=16x9&q=w_800,c_fill",
-    "publishedAt": "2022-10-12T00:57:00Z",
-    "content": "Season 23 of The Voice will welcome some new faces and say goodbye to the hit shows longest-tenured coach. Next season will be Blake Sheltons last on the show, NBC revealed in a statement on Tuesday… [+1168 chars]"
+    "title": "Arizona AG's office asks feds to investigate conservative nonprofit True the Vote - POLITICO",
+    "description": "The group propagated claims of vote fraud by relying on geolocation data, which became the central focus of the movie “2000 Mules.”",
+    "url": "https://www.politico.com/news/2022/10/14/arizona-ag-true-the-vote-00061973",
+    "urlToImage": "https://static.politico.com/1a/ba/10a44ea54f428322f6029c2d4695/election-2022-arizona-attorney-general-11540.jpg",
+    "publishedAt": "2022-10-15T02:00:46Z",
+    "content": "The letter, dated Friday, is particularly remarkable coming from the office of Brnovich, a Republican who once vied for Trumps support in a Senate GOP primary bid that hinged on false claims about th… [+2768 chars]"
     },
     {
     "source": {
@@ -164,51 +99,129 @@
     "name": "YouTube"
     },
     "author": null,
-    "title": "Bank of England's pension decision sends shocks through financial markets - CNBC Television",
+    "title": "NVIDIA Cancels the RTX 4080 12GB After Backlash - Gamers Nexus",
     "description": null,
-    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8gjLRynDpKA",
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV1O9oldh_g4",
     "urlToImage": null,
-    "publishedAt": "2022-10-12T00:52:43Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "YouTube"
-    },
-    "author": null,
-    "title": "'Fast Money' traders respond to Yellen's remarks on fiscal policy - CNBC Television",
-    "description": null,
-    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DteNZpRYCgpY",
-    "urlToImage": null,
-    "publishedAt": "2022-10-12T00:52:12Z",
+    "publishedAt": "2022-10-15T01:42:28Z",
     "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later"
     },
     {
     "source": {
     "id": null,
-    "name": "Variety"
+    "name": "The Guardian"
     },
-    "author": "Michael Schneider",
-    "title": "Warner Bros. TV Group Lays Off 82 Staffers, Consolidates Some Unscripted and Animation Departments in Belt-Tightening Restructure - Variety",
-    "description": "Popular on Variety Warner Bros. Television Group handed out pink slips to 82 staffers on Tuesday, representing 19% of the studio’s workforce, across its scripted, unscripted and animation divisions. Additionally, it has opted not to fill 43 additional vacant …",
-    "url": "https://variety.com/2022/tv/news/warner-bros-tv-group-layoffs-82-staffers-channing-dungey-1235400286/",
-    "urlToImage": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1429505094-e1665533949834.jpg?w=1024",
-    "publishedAt": "2022-10-12T00:45:00Z",
-    "content": "Warner Bros. Television Group handed out pink slips to 82 staffers on Tuesday, representing 19% of the studio’s workforce, across its scripted, unscripted and animation divisions. Additionally, it ha… [+11428 chars]"
+    "author": "Dominic Rushe",
+    "title": "Rupert Murdoch considering merging Fox and News Corp once again - The Guardian",
+    "description": "Merger would combine Fox News and TMZ with newspaper and online news operations, almost a decade after they split",
+    "url": "https://www.theguardian.com/media/2022/oct/14/rupert-murdoch-possible-fox-news-corp-merger",
+    "urlToImage": "https://i.guim.co.uk/img/media/0c62e43e6507f93108adfce92a38bf0547e76bad/0_114_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9ec869f07b2083570d1e2291442db11",
+    "publishedAt": "2022-10-15T01:15:00Z",
+    "content": "The two parts of Rupert Murdochs media empire are discussing a merger nearly a decade after they split. The merger would combine Murdochs Fox News and TMZ assets with News Corps newspaper and online… [+3169 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Brian Marks, Eve Buckland",
+    "title": "Kim Kardashian avoids run-in with ex Kanye West as they attend daughter's basketball game in LA - Daily Mail",
+    "description": "Kim Kardashian, 41, and ex Kanye West, 45, barely avoided an awkward encounter on Friday when they arrived separately at their oldest daughter North's basketball game in Los Angeles.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-11317899/Kim-Kardashian-avoids-run-ex-Kanye-West-attend-daughters-basketball-game-LA.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/10/15/02/63493045-0-image-a-29_1665796356734.jpg",
+    "publishedAt": "2022-10-15T01:13:18Z",
+    "content": "Kim Kardashian and her ex-husband Kanye West just barely avoided an awkward encounter on Friday when they arrived separately at their oldest daughter North's basketball game in Los Angeles. Although… [+9632 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Bruce Haring",
+    "title": "Beck Bows Out Of Arcade Fire North American Tour - Deadline",
+    "description": "Beck has become the latest artist to drop off the Arcade Fire tour. Today, he withdrew as the opening act after appearing in that capacity on the group’s European leg. His decision comes just before the start of Arcade Fire’s North American tour, which begins…",
+    "url": "https://deadline.com/2022/10/beck-bows-out-arcade-fire-north-american-tour-1235145784/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/GettyImages-1412161696.jpg?w=1024",
+    "publishedAt": "2022-10-15T00:39:00Z",
+    "content": "Beck has become the latest artist to drop off the Arcade Fire tour. Today, he withdrew as the opening act after appearing in that capacity on the group’s European leg. His decision comes just befor… [+556 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Kathryn Watson",
+    "title": "Trump writes letter to Jan. 6 committee after its vote to subpoena him and boasts about crowd size - CBS News",
+    "description": "The former president repeated his false claims that the 2020 election was rigged and stolen.",
+    "url": "https://www.cbsnews.com/news/trump-jan-6-committee-letter-crowd-size/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/13/a72f2d06-fe9a-4c96-86e5-5d45f460e932/thumbnail/1200x630/f7fe62f0e65d3dc4806b5d6593a51e85/cbsn-fusion-jan-6-committee-votes-to-subpoena-donald-trump-thumbnail-1374978-640x360.jpg",
+    "publishedAt": "2022-10-14T23:01:00Z",
+    "content": "A day after the House Jan. 6 select committee voted unanimously to subpoena former President Trump, he responded with an angry letter to committee Chairman Bennie Thompson to complain about its work.… [+2319 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/karissa-bell",
+    "title": "Nikola founder Trevor Milton convicted on three charges of fraud - Engadget",
+    "description": "Trevor Milton, the founder and former executive chairman of Nikola, has been found guilty on three counts of fraud for misleading the electric vehicle company’s investors about its business and technology..",
+    "url": "https://www.engadget.com/nikola-founder-trevor-milton-guilty-fraud-223109177.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-08/fdb9e5e0-e839-11ea-b7fe-beedadb772b5",
+    "publishedAt": "2022-10-14T22:34:10Z",
+    "content": "Trevor Milton, the founder and former executive chairman of Nikola, has been found guilty on three counts of fraud for misleading the electric vehicle companys investors about its business and tech… [+1645 chars]"
+    },
+    {
+    "source": {
+    "id": "ign",
+    "name": "IGN"
+    },
+    "author": null,
+    "title": "Halloween Ends: Ending Explained, Easter Eggs and Post-Credits Check-in - IGN - IGN",
+    "description": "Now that we’ve reached the end of this particular trilogy with Halloween Ends, we have questions - and some answers. Is this it for Laurie Strode for real this time? Is Michael Myers kaput? Who makes it out alive? When does evil die?!",
+    "url": "https://www.ign.com/articles/halloween-ends-ending-explained-easter-eggs-post-credits-end",
+    "urlToImage": "https://assets-prd.ignimgs.com/2022/10/14/halloween-ends-1665786716623.jpg?width=1280",
+    "publishedAt": "2022-10-14T22:33:12Z",
+    "content": "Warning: Full spoilers follow for Halloween Ends. Do you want to know if theres a post-credits scene in the film? Well tell you right here: No, there is not a mid-credits or a post-credits scene. Ha… [+7473 chars]"
     },
     {
     "source": {
     "id": "the-washington-post",
     "name": "The Washington Post"
     },
-    "author": "Annie Linskey, Alice Crites",
-    "title": "Woman says she had to press Herschel Walker to pay for abortion he wanted - The Washington Post",
-    "description": "The account, echoed by a person she confided in at the time, adds to the swirl of controversy around the antiabortion Senate GOP candidate in Georgia.",
-    "url": "https://www.washingtonpost.com/politics/2022/10/11/herschel-walker-abortion-payment/",
-    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z22CU7BQPII63PGGBB2LE2XCSY.jpg&w=1440",
-    "publishedAt": "2022-10-12T00:36:18Z",
-    "content": "The mother of one of Herschel Walkers children had to repeatedly press the former football star and now-Republican Senate nominee in Georgia for funds to pay for a 2009 abortion that she said he want… [+11741 chars]"
+    "author": "Perry Stein",
+    "title": "Justice Dept. asks appeals court to end Mar-a-Lago special master - The Washington Post",
+    "description": "Prosecutors said the unclassified documents seized at Mar-a-Lago also are critical to their classified-documents investigation.",
+    "url": "https://www.washingtonpost.com/national-security/2022/10/14/maralago-appeal-special-master-documents/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7KV4GBZDUI63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-10-14T22:32:40Z",
+    "content": "The Justice Department asked a federal appeals court to reverse a Florida judges order appointing a special master to review documents seized from Donald Trumps home and club, arguing that the former… [+2831 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Maize n Brew"
+    },
+    "author": "Kellen Voss",
+    "title": "Michigan unveils uniforms for Maize Out vs. Penn State - Maize n Brew",
+    "description": "The crowd will be decked out in Maize, but the Wolverines will be wearing a different color.",
+    "url": "https://www.maizenbrew.com/football/2022/10/14/23405209/michigan-wolverines-football-uniforms-for-maize-out-vs-penn-state-2022-season",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/eLRKfnGZexz0mCkeRkUL94EY4w4=/0x209:2400x1466/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24110571/usa_today_18982477.jpg",
+    "publishedAt": "2022-10-14T22:04:33Z",
+    "content": "The biggest matchup for the Michigan Wolverines so far this season is almost here, and while the crowd will be decked out in Maize, the players on the field will be decked out in blue. Personally, I… [+1199 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Eric Berger",
+    "title": "Since Crew Dragon’s debut, SpaceX has flown more astronauts than anyone - Ars Technica",
+    "description": ""Thank you for an incredible ride up to orbit and an incredible ride home."",
+    "url": "https://arstechnica.com/science/2022/10/since-crew-dragons-debut-spacex-has-flown-more-astronauts-than-anyone/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/52427279092_82fad265ef_k-760x380.jpg",
+    "publishedAt": "2022-10-14T21:57:35Z",
+    "content": "Enlarge/ Crew Dragon splashes down in the Atlantic Ocean on Friday afternoon. 86 with 51 posters participating After 170 days in space, four astronauts splashed down in the Atlantic Ocean on Friday… [+3073 chars]"
     },
     {
     "source": {
@@ -216,51 +229,38 @@
     "name": "YouTube"
     },
     "author": null,
-    "title": "NASA's 'DART' Mission Succeeds In Changing Asteroid's Orbit - NBC News",
-    "description": "NASA’s “DART” mission proved to be a success after the spacecraft slammed into an asteroid and shortened its orbit even more than anticipated. NBC News’ Tom ...",
-    "url": "https://www.youtube.com/watch?v=4XHceZRA8rY",
-    "urlToImage": "https://i.ytimg.com/vi/4XHceZRA8rY/maxresdefault.jpg",
-    "publishedAt": "2022-10-12T00:15:00Z",
+    "title": "The Results of Our DART Planetary Defense Test on This Week @NASA – October 14, 2022 - NASA",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7LF59gmJNog",
+    "urlToImage": null,
+    "publishedAt": "2022-10-14T21:55:58Z",
     "content": null
     },
     {
     "source": {
-    "id": "ars-technica",
-    "name": "Ars Technica"
+    "id": null,
+    "name": "WYFF4 Greenville"
     },
-    "author": "Jennifer Ouellette",
-    "title": "Nikon Small World microscopy contest 2022: Meet this year’s top 10 winners - Ars Technica",
-    "description": "Your annual reminder that science can be beautiful as well as informative.",
-    "url": "https://arstechnica.com/science/2022/10/nikon-small-world-microscopy-contest-2022-meet-this-years-top-10-winners/",
-    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/nikon1-760x380.jpg",
-    "publishedAt": "2022-10-11T23:19:38Z",
-    "content": "Enlarge/ This arresting image of the hand of an embryonic Madagascar giant day gecko took first place in the annual competition. 20 with 17 posters participating The Madagascar giant day gecko (Phe… [+3003 chars]"
+    "author": null,
+    "title": "South Carolina health officials confirm first flu-related death of season - WYFF4 Greenville",
+    "description": "South Carolina has suffered its first influenza-associated death of the season, according to health officials.",
+    "url": "https://www.wyff4.com/article/south-carolina-first-flu-related-death-season/41627874",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/flu-in-south-carolina-1665783499.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2022-10-14T21:43:00Z",
+    "content": "COLUMBIA, S.C. —South Carolina has suffered its first influenza-associated death of the season, according to health officials. The South Carolina Department of Health and Environmental Control annou… [+2583 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "CNET"
+    "name": "New York Post"
     },
-    "author": "Adam Oram",
-    "title": "Best Buy's Flash 48-Hour Sale: Save on TVs, Air Fryers, Headphones and More - CNET",
-    "description": "Get huge discounts on laptops, smartwatches, TVs and more at Best Buy's alternative to Amazon's second Prime Day event of 2022.",
-    "url": "https://www.cnet.com/deals/best-buys-launches-flash-48-hour-sale-to-compete-with-amazons-october-prime-day/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/21930a3aa52f877aaf8842f40d99260022ae3e42/hub/2022/09/15/71ec0ea6-3ee1-48ed-848c-110c30427a75/lg-oled.png?auto=webp&fit=crop&height=630&width=1200",
-    "publishedAt": "2022-10-11T23:01:00Z",
-    "content": "This story is part of Amazon Prime Day, CNET's guide to everything you need to know and how to find the best deals. Amazon's second Prime Day event of the year, known as the Amazon Prime Early Acce… [+4466 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "BBC News"
-    },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "Israel and Lebanon agree 'historic' maritime border deal, US says - BBC",
-    "description": "A finalised agreement would allow the enemies to exploit natural gas fields under the Mediterranean.",
-    "url": "https://www.bbc.com/news/world-middle-east-63222903",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12101/production/_127058937_mediaitem127058936.jpg",
-    "publishedAt": "2022-10-11T22:58:53Z",
-    "content": "Israel and Lebanon have made an "historic breakthrough" and agreed to establish a permanent maritime border between them, the US president says. A finalised deal would allow the neighbours, which re… [+2438 chars]"
+    "author": "Isabel Keane",
+    "title": "Juror in Nikolas Cruz Parkland trial says she was 'threatened' by another panelist in deliberation - New York Post ",
+    "description": "Prosecutors in the Nikolas Cruz case are now calling for law enforcement to interview the unnamed juror after she told the state attorney’s office “she received what she perceived to be a threat.” …",
+    "url": "https://nypost.com/2022/10/14/juror-in-nikolas-cruz-trial-threatened-by-another-panelist/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/nikolas-cruz-comp-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-10-14T21:04:00Z",
+    "content": "A member of the jury that recommended a life sentence to Florida school shooter Nikolas Cruz this week claimed she was threatened by another juror during deliberations. Prosecutors in the case are n… [+3411 chars]"
     }
     ]
     }

@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbarultra{
+    /* background: linear-gradient(to right,rgba(152, 152, 208, 0.879),rgba(198, 142, 142, 0.815)); */
+    background: linear-gradient(to right,rgba(125, 125, 188, 0.879),rgba(185, 117, 117, 0.815));
+    font-size: larger;
+    position: sticky;
+}
+.brand-name{
+
+    font-size: 2rem;
+}
+body{
+    background: linear-gradient(to right,rgb(188, 188, 255),rgb(223, 159, 159));
+    
+}
+
+.heading{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    margin-top: 20px;
+}
+
+.badge-style{
+    display: flex;
+    position: absolute;
+justify-content: flex-end;
+right: 0;
+}
